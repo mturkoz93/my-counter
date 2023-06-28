@@ -1,6 +1,6 @@
 {
   "name": "my-counter-vue",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "A counter component for Vue",
   "keywords": [
     "vue",

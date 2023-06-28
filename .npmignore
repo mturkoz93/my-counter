@@ -1,3 +1,39 @@
-src/
-public/
-index.html
+# Yapılandırma dosyaları
+.eslintrc
+.prettierrc
+.babelrc
+.webpack.config.js
+vite.config.js
+jest.config.js
+
+# Geliştirme dizinleri
+/src
+/tests
+/scripts
+
+# Geliştirme araçları
+/node_modules
+
+# Belgeler ve README dosyaları (NPM README.md'yi otomatik olarak dahil eder)
+/docs
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+
+# Log dosyaları
+npm-debug.log
+yarn-error.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Editör ayarları
+.idea
+.vscode
+
+# Diğer
+*.log
+*.pid
+*.seed
+*.swp
+*.bak

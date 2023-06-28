@@ -12,6 +12,6 @@ import { ParentComponent } from 'my-counter'
 ## Publish
 
 - update version in package.json
-- run command: 'yarn build'
+- yarn build
 - npm login
 - npm publish --access public
