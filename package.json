@@ -1,5 +1,5 @@
 {
-  "name": "my-counter",
+  "name": "my-counter-vue",
   "private": false,
   "version": "0.0.1",
   "main": "dist/my-counter.js",
