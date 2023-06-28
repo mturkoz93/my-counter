@@ -1,14 +1,29 @@
 {
   "name": "my-counter-vue",
-  "private": false,
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "description": "A counter component for Vue",
+  "keywords": [
+    "vue",
+    "counter"
+  ],
+  "author": "mturkoz_tr60",
+  "license": "MIT",
   "main": "dist/my-counter.js",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mturkoz93/my-counter"
+  },
+  "bugs": {
+    "url": "https://github.com/mturkoz93/my-counter/issues"
+  },
+  "homepage": "https://github.com/mturkoz93/my-counter#readme",
+  "private": false,
+  "type": "module",
   "dependencies": {
     "vue": "^3.2.47"
   },
