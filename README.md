@@ -5,7 +5,7 @@
 ```
 import { ParentComponent } from 'my-counter'
 
-<ParentCounter></ParentCounter>
+<ParentCounter msg="Hello World!" :count="500"></ParentCounter>
 ```
 
 
