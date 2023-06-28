@@ -1,7 +1,8 @@
 {
   "name": "my-counter",
-  "private": true,
-  "version": "0.0.0",
+  "private": false,
+  "version": "0.0.1",
+  "main": "dist/my-counter.js",
   "type": "module",
   "scripts": {
     "dev": "vite",
